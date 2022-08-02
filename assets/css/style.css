@@ -1,0 +1,178 @@
+/* p{
+    color: red;
+} */
+
+/* .test.header{
+    background-color: black;
+    color: chocolate;
+}
+
+.test .name{
+    background-color: cornflowerblue;
+}
+
+
+.test{
+    color: yellow;
+    background-color: darkblue;
+}
+
+#info{
+    border: 1px solid black
+} */
+
+/* 
+*{
+    background-color: gray;
+} */
+
+/* p.name{
+    background-color: aqua;
+} */
+/* 
+.test .name:last-child{
+    background-color:  red;
+} */
+/* 
+.header, .footer .first{
+    background-color: aqua;
+}
+
+span a{
+    background-color: red;
+} */
+/* 
+.footer>span {
+    color: red;
+    background-color: yellowgreen;
+    
+} */
+
+/* 
+div + h3{
+    background-color: aqua;
+    color: red;
+} */
+/* 
+
+.footer + h3{
+    background-color: aqua;
+} */
+/* 
+
+ul li{
+    list-style-type: none;
+} */
+/* 
+
+p ~ ul{
+    background-color: aqua;
+} */
+
+/* 
+#selector a{
+    text-decoration: none;
+
+}
+
+[target] {
+    background-color: red;
+} */
+
+/* 
+[target = _blank] {
+    color :red
+} */
+/* 
+[title~=flower] {
+    color: red;
+} */
+/* 
+.facebook:active{
+    background-color: brown;
+}
+.facebook:hover{
+    background-color: blue;
+} */
+/* 
+#selector:hover{
+    background-color: blue;
+} */
+/* 
+.flower::after{
+  content:   "-This is my flowers";
+}
+
+.flower::before{
+    content: "This is my Flowers-"
+} */
+/* 
+input:checked {
+    width: 100px;
+    height: 100px;
+}
+
+input:checked:hover {
+    width: 50ox;
+    height: 50px;
+}
+
+input:disabled {
+    background-color: aqua;
+    color: black;
+    opacity: 0.5;
+}
+
+.email:focus {
+    background-color: aqua;
+}
+
+.inputs input:nth-child(3) {
+    background-color: aqua;
+} */
+/* 
+select option:first-child{
+    opacity: 0.3;
+} */
+/*  
+.home{
+    background-color: #ff0000;
+}
+
+.home span{
+    background-color: #b6b4b5;
+} */
+
+.all{
+    margin-left: 40%;
+    margin-top: 50px;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    border-radius: 30px;
+    
+}
+.incorrect{
+    background-color: yellow;
+    
+    padding: 7px 50px 8px 2px;
+    margin-top: 15px;
+
+    
+}
+.login{
+
+    background-color: orangered;
+  
+      width: 27%;
+    padding: 8px 13px 13px 15px;
+}
+
+.sizeusername{
+    padding: 10px 10px 3px 57px;
+    
+}
+body{
+    background-color: aqua;
+}
+    
